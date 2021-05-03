@@ -1,1 +1,3 @@
 # separadorcaixas
+
+Trabalho realizado juntamente a Samuel Leie para a disciplina de Automação da Fundação Liberato, no ano de 2020. No projeto, foram utilizados os softwares CODESYS e Factory.IO, junto a linguagem de programação Structure Text (ST). A ideia do projeto consiste na recriação de um ambiente de fábrica, onde opera um conjunto de máquinas para organizar a separação de caixas através do seu peso. Além disso, o projeto conta com um painel controlador do maquinário, informando a quantidade de caixas enviadas de cada peso e a presença de um alerta para um possível erro durante o processo. Tanto as informações da quantidade de caixas quanto dos erros durante o processo podem ser acessados remotamente.
